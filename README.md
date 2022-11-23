@@ -1,3 +1,7 @@
+sources:
+https://www.youtube.com/watch?v=CR-pbcnbHfc&list=PL_euSNU_eLbdg0gKbR8zmVJb4xLgHR7BX&index=60
+https://github.com/leelanarasimha/ngrx-data
+
 Los videos 50 al 58 son un proyecto nuevo, instalamos todo:
 
 @ngrx/store
